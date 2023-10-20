@@ -1,9 +1,9 @@
-CarRent - Rent your favourite car here
+Carent - Rent your favourite car here
 
 
 # HEADER
 
-alt = CarRent logo
+alt = Carent logo
 
 Home
 Explore cars
@@ -241,4 +241,4 @@ Chelsea
 <ion-icon name="logo-skype"></ion-icon>
 <ion-icon name="mail-outline"></ion-icon>
 
-&copy; 2022 codewithsadee. All Rights Reserved
+&copy; 2023 Fasmj05. All Rights Reserved
