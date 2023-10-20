@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![Ridex Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![CarRent Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
