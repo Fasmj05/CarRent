@@ -1,9 +1,9 @@
-Ridex - Rent your favourite car
+CarRent - Rent your favourite car here
 
 
 # HEADER
 
-alt = Ridex logo
+alt = CarRent logo
 
 Home
 Explore cars
@@ -205,9 +205,9 @@ New rules for handling our cars
 
 # FOOTER
 
-alt = Ridex logo
+alt = CarRent logo
 
-Search for cheap rental cars in New York. With a diverse fleet of 19,000 vehicles, Waydex offers its consumers an attractive and fun selection.
+Search for cheap rental cars in New York. With a diverse fleet of 19,000 vehicles, CarRent offers its consumers an attractive and fun selection.
 
 Company
 
