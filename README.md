@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/Fasmj05/CarRent)
-  ![GitHub stars](https://img.shields.io/github/stars/Fasmj05/CarRent?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/Fasmj05/CarRent?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Fasmj05/Carent)
+  ![GitHub stars](https://img.shields.io/github/stars/Fasmj05/Carent?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Fasmj05/Carent?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fasmj05_?style=social)](https://twitter.com/intent/follow?screen_name=fasmj05_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/DJAK-KODM5E?style=social)](https://youtu.be/DJAK-KODM5E)
 
@@ -11,9 +11,9 @@
   
   <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">CarRent - Car rental website</h2>
+  <h2 align="center">Carent - Car rental website</h2>
 
-  CarRent is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  Carent is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
   <a href="https://Fasmj05.github.io/CarRent/"><strong>➥ Live Demo</strong></a>
 
@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![CarRent Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Carent Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -33,18 +33,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **CarRent** locally, run this command on your git bash:
+To run **Carent** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Fasmj05/CarRent.git
+sudo git clone https://github.com/Fasmj05/Carent.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Fasmj05/CarRent.git
+git clone https://github.com/Fasmj05/Carent.git
 ```
 
 ### Contact
