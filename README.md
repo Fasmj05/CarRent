@@ -10,11 +10,12 @@
   <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">Ridex - Car rental website</h2>
+  <strong>➥ Live Demo</strong></a>
 <h2 align="center">https://fasmj05.github.io/Ridex/</h2>
 
   Ridex is fully responsive car rental website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="(https://fasmj05.github.io/Ridex/)"><strong>➥ Live Demo</strong></a>
+  <a href="(https://fasmj05.github.io/Ridex/)">
 
 </div>
 
