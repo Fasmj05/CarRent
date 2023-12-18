@@ -1,4 +1,4 @@
-ridex - Rent your favourite car
+carent - Rent your favourite car
 
 
 # HEADER
@@ -207,7 +207,7 @@ New rules for handling our cars
 
 alt = carent logo
 
-Search for cheap rental cars in New York. With a diverse fleet of 19,000 vehicles, ridex offers its customers an attractive and fun selection.
+Search for cheap rental cars in New York. With a diverse fleet of 19,000 vehicles, carent offers its customers an attractive and fun selection.
 
 Company
 
